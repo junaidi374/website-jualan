@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Detail</title>
+    <!-- Google Fonts Icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0" />
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/swiper.css" />
+    <style>
+        /* Tambahkan CSS untuk peta */
+        #map {
+            height: 400px; /* Atur tinggi peta */
+            width: 100%; /* Lebar peta */
+        }
+        .shipping-cost {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Modal untuk detail produk -->
+    <div id="productModal" class="modal">
+        <div class="modal-content">
+            <!-- Tombol Kembali -->
+            <span id="backBtn" class="material-symbols-outlined">keyboard_backspace</span> 
+
+            <div class="modal-body">
+                <div class="top-section">
+                    <!-- Bagian kiri: Gambar produk -->
+                    <div class="left-section">
+                        <img id="modalImage" src="" alt="Product Image" />
+                    </div>
+            
+                    <!-- Bagian kanan: Title, harga, dan tombol checkout -->
+                    <div class="right-section">
+                        <h2 id="modalTitle"></h2> <!-- Title -->
+                        <span id="modalPrice" class="data_harga"></span> <!-- Harga -->
+                        <a id="checkoutBtn" href="#" class="btn">Checkout</a> <!-- Tombol Checkout -->
+                    </div>
+                </div>
+                
+                <div class="vertical_line"></div>
+                
+                <!-- Deskripsi di bagian bawah -->
+                <div class="bottom-section">
+                    <h3>Keterangan</h3>
+                    <p id="modalDescription"></p> <!-- Deskripsi produk -->
+                </div>
+
+                <!-- Peta dan Ongkos Kirim -->
+                <div class="bottom-section">
+                    <h3>Lokasi dan Ongkos Kirim</h3>
+                    <div id="map"></div> <!-- Tempat untuk peta -->
+                    <div class="shipping-cost">
+                        <p>Ongkos Kirim: <span id="shippingCost">Tentukan lokasi untuk melihat ongkos kirim.</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- JavaScript -->
+    <script src="https://www.google.com/maps/@-0.5185877,117.1632009,16z?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D" async defer></script> <!-- Ganti YOUR_GOOGLE_MAPS_API_KEY dengan API key Anda -->
+    <script src="./assets/js/swiper.js"></script>
+    <script src="./assets/js/scrollReveal.js"></script>
+    <script src="./assets/js/script.js" defer type="module"></script>
+    <script src="./assets/js/product-detail.js" defer type="module"></script>
+</body>
+</html>
