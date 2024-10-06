@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "title": "capo gitar",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Capo gitar berkualitas tinggi ini memudahkan pemain untuk mengubah nada gitar dengan cepat dan mudah. Cocok untuk gitar akustik dan elektrik, alat ini membantu mempermudah transisi nada tanpa perlu menyetel ulang gitar. Terbuat dari bahan yang kokoh dan tahan lama, sangat cocok untuk pemain gitar dari segala level.",
+    "price": "RP 20.000",
+    "image": "./assets/images/capo.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "music"
+  },
+  {
+    "id": 2,
+    "title": "senar nylon ej49 ",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": "RP 40.000",
+    "image": "./assets/images/nilon.png",
+    "isNew": true, 
+    "isTrending": false,
+    "category": "music"
+  },
+  {
+    "id": 3,
+    "title": "elexir ukuran 11",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price":"RP 50.000",
+    "image": "./assets/images/elexir11-removebg-preview.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "music"
+  },
+  {
+    "id": 4,
+    "title": "daddario string ukuran 10",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price":"RP 35.000",
+    "image": "./assets/images/dadario1-removebg-preview-removebg-preview.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "music"
+  },
+  {
+    "id": 5,
+    "title": "headset bloethoot m19",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": "RP 60.000",
+    "image": "./assets/images/tws m19.png",
+    "isNew": false,
+    "isTrending": false,
+    "category": "elektronik"
+  },
+  {
+    "id": 6,
+    "title": "elektrik daddario ukuran 9",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": "RP 40.000",
+    "image": "./assets/images/elextrik9-removebg-preview.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "music"
+  },
+  {
+    "id": 7,
+    "title": "TWS M10 ",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price":"RP 50.000",
+    "image": "./assets/images/tws1.webp",
+    "isNew": false,
+    "isTrending": false,
+    "category": "elektronik"
+  },
+  {
+    "id": 8,
+    "title": "elexir ukuran 10",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price":"RP 50.000",
+    "image": "./assets/images/elexir10a-removebg-preview.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "music"
+  },
+  {
+    "id": 9,
+    "title": "akustik daddario ukuran 11",
+    "trendTitle": "best trending hoodie",
+    "description": "This product is one of our best selling and popular prodcut; Because of its elegance and the beauty of its design, we advise you to buy it quickly before it runs out of stock.",
+    "price":"RP 35.000",
+    "image": "./assets/images/WhatsApp_Image_2024-07-25_at_17.46.55-removebg-preview.png",
+    "isNew": false,
+    "isTrending": true,
+    "category": "music"
+  },
+  {
+    "id": 10,
+    "title": "girl outfit",
+    "trendTitle": "most popular outfit",
+    "description": "We present to you our most popular product, as it has received many requests recently; Because of its quality and workmanship, we advise you to quickly purchase the product before the stock runs out.",
+    "price": 839.99,
+    "image": "./assets/images/product10.png",
+    "isNew": false,
+    "isTrending": true,
+    "category": "women"
+  },
+  {
+    "id": 11,
+    "title": "men uniforms",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 1199.99,
+    "image": "./assets/images/product11.png",
+    "isNew": false,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 12,
+    "title": "black jacket",
+    "trendTitle": "unique awesome jacket",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 499.99,
+    "image": "./assets/images/product12.png",
+    "image2": "./assets/images/product12-2.png",
+    "isNew": true,
+    "isTrending": true,
+    "category": "women"
+  },
+  {
+    "id": 13,
+    "title": "women coat and pants",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 1499.99,
+    "image": "./assets/images/product13.png",
+    "image2": "./assets/images/product13-2.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 14,
+    "title": "fully jeans outfit",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+    "price": 900.0,
+    "image": "./assets/images/product14.png",
+    "image2": "./assets/images/product14-2.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "men"
+  }
+]
